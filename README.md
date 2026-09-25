@@ -29,4 +29,4 @@ Insights & Reporting
   - Summarized key findings and trends.
   - Highlighted market hotspots and areas with significant price fluctuations.
 
-Video Link for Interactive Dashboard https://shorturl.at/LcKAk
+Video Link for Interactive Dashboard: (https://www.youtube.com/watch?v=V8isfhNlCbs)
